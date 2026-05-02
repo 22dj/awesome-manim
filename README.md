@@ -127,6 +127,8 @@
   - [YouTube](https://www.youtube.com/channel/UCOzuch8oW61hVYffbQ-upWw)
 - LolloSTEM
   - [YouTube](https://www.youtube.com/@LolloSTEM)
+- Mohammad Laheeb
+- [YouTube](https://www.youtube.com/@number-theory)
 - Manim Kindergarten
   - [YouTube](https://www.youtube.com/channel/UCk1nsj8AvzuSVL_I4JieVNQ)
   - [GitHub](https://github.com/manim-kindergarten)
